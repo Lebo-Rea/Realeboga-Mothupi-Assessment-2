@@ -1,5 +1,6 @@
 # Realeboga-Mothupi-Assessment-2
 KCCC Website Proposal Summary
+
 The proposal outlines the development of a professional website for Kings Covenant Christian Centre, a non-profit church based in Naturena, Johannesburg. The website will provide reliable information about the church’s leadership, service times, ministries, sermons, events, outreach programmes, location and contact details. It will include Home, About Us, Ministries, Sermons, Events and Contact pages, together with contact and prayer-request forms and social-media links. The design will use the church’s royal blue, white and gold colours, with clear navigation, readable text and accessible layouts. The website will be developed using HTML5, CSS3 and basic JavaScript and tested on desktop and mobile browsers. Development is planned over eight weeks, covering research, design, development, testing, deployment and evaluation. The estimated first-year budget is R13 793, including the domain, hosting, development, maintenance, backups and contingency costs.
 
 
@@ -7,6 +8,7 @@ The proposal outlines the development of a professional website for Kings Covena
 
 
 Website Development and Design Improvements
+
 The Kings Covenant Christian Centre website has improved significantly from its original basic HTML structure. In the early stages of development, the webpages mainly contained headings, paragraphs, images, lists, links and navigation menus. Although the basic HTML made the information visible, the website did not yet have a consistent visual identity. The content appeared plain, some elements were not aligned correctly, and there was limited spacing between the different sections. The original code also contained a few incorrectly positioned or unclosed HTML tags, which affected the structure and appearance of some pages. These errors were corrected before styling was added so that each webpage could have a clear and valid structure.
 
 The website was developed into a multi-page website consisting of the Home, About Us, Ministries, Sermons, Events and Contact Us pages. Each page was given a clear purpose. The Home page introduces the church, the About Us page presents its background, leadership, mission and vision, and the Ministries page explains the different areas in which members can serve. The Sermons page provides spiritual content and a link to the church’s YouTube channel, while the Events page contains weekly programmes, outreach information and an embedded Google Map. The Contact Us page provides the church’s address, contact details, social-media links, service times and a contact form. Organising the information across several pages made the website easier to understand and prevented too much content from appearing on one page.
